@@ -1,4 +1,4 @@
-public class Exercicio2 {
+public class ex002 {
     public static void main(String[] args) {
         String codigo1 = unificarCodigos("FIN", "REC01");
         String codigo2 = unificarCodigos("VENDAS", "SP");
@@ -13,3 +13,4 @@ public class Exercicio2 {
         return resultadoParcial.concat(codigoParteB);
     }
 }
+
