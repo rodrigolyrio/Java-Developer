@@ -1,4 +1,4 @@
-public class Exercicio3 {
+public class ex003 {
     public static void main(String[] args) {
         boolean bateuMeta = true;
         double satisfacaoCliente = 7.5;
@@ -14,3 +14,4 @@ public class Exercicio3 {
         System.out.println("Análise de performance finalizada.");
     }
 }
+
