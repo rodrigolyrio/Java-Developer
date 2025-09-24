@@ -1,4 +1,4 @@
-public class Exercicio4 {
+public class ex004 {
     public static void main(String[] args) {
         int pontuacaoCredito = 720;
         double rendaMensal = 3800.00;
@@ -22,3 +22,4 @@ public class Exercicio4 {
         }
     }
 }
+
