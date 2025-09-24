@@ -1,4 +1,4 @@
-public class Exercicio1 {
+public class ex001 {
     public static void main(String[] args) {
         String etiqueta = gerarEtiqueta("Notebook Gamer", 2025);
         System.out.println(etiqueta);
