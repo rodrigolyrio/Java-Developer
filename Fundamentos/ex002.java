@@ -1,4 +1,5 @@
 public class ex002 {
+    // O algoritmo demonstra uma forma de concatenar (unir) duas strings usando o método .concat() em vez do operador +. A função unificarCodigos junta duas partes de um código, separando-as com um underscore.
     public static void main(String[] args) {
         String codigo1 = unificarCodigos("FIN", "REC01");
         String codigo2 = unificarCodigos("VENDAS", "SP");
@@ -13,4 +14,5 @@ public class ex002 {
         return resultadoParcial.concat(codigoParteB);
     }
 }
+
 
