@@ -21,3 +21,4 @@ public class Calculadora {
         System.out.println("O custo total da viagem será de R$ " + precoTotal);
     }
 }
+
