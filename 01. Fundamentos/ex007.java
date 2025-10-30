@@ -1,3 +1,8 @@
+/*
+ Calcula a quantidade de litros de combustível e o custo total de uma viagem 
+ com base na distância, consumo do veículo e preço do combustível.
+ */
+
 import java.util.Scanner;
 
 public class Calculadora {
@@ -21,3 +26,4 @@ public class Calculadora {
         System.out.println("O custo total da viagem será de R$ " + precoTotal);
     }
 }
+
